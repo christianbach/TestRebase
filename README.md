@@ -8,3 +8,5 @@ Commit to feature
 commit to feature branch
 
 An other commit to master
+
+a commit from feature branch
